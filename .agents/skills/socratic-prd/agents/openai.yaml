@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic PRD"
+  short_description: "Clarify outcomes through relentless inquiry"
+  default_prompt: "Use $socratic-prd to interrogate this request until its true outcome and proof are clear."

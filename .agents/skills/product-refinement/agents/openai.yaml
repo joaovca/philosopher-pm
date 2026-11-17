@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Refinement"
+  short_description: "Discovery e cards prontos para refinamento"
+  default_prompt: "Use $product-refinement para esclarecer este pedido e preparar os cards para refinamento com engenharia."
+policy:
+  allow_implicit_invocation: true
